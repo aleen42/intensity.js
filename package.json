@@ -1,0 +1,25 @@
+{
+  "name": "@aleen42/intensity",
+  "version": "1.0.0",
+  "description": "A lightweight node library for calculating pixel intensity of characters based on Canvas",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/intensity.js.git"
+  },
+  "keywords": [
+    "pixel",
+    "intensity",
+    "character"
+  ],
+  "author": "Aleen <aleen42@vip.qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/intensity.js/issues"
+  },
+  "homepage": "https://github.com/aleen42/intensity.js#readme",
+  "dependencies": {
+    "canvas": "^2.7.0"
+  }
+}
